@@ -2,4 +2,5 @@
 - 3D design
 - PCB
 - physical data file
+- Robot pinouts / Design stuff
 # here
